@@ -1,0 +1,13 @@
+id,date,course,days,reason,recommendation,original_request
+R02,2026-11-01,MA102,5,family,needs_faculty_review,I need 5 days for MA102 because of a family emergency.
+R03,2026-11-02,,,other,needs_more_info,Please give me an extension for my assignment.
+R05,2026-11-02,CS101,4,workload,needs_faculty_review,I need 4 days for CS101 because of heavy workload.
+R07,2026-11-03,CS101,,family,needs_more_info,I will submit my CS101 assignment on Monday due to a family issue.
+R08,2026-11-03,PH103,7,event,needs_faculty_review,Please provide 7 days for PH103 because of a college event.
+R11,2026-11-04,PH103,10,medical,needs_faculty_review,I need 10 days for PH103 due to medical reasons.
+R12,2026-11-05,,2,technical,needs_more_info,I need 2 days extension because of a technical problem.
+R13,2026-11-05,PH103,1,event,needs_faculty_review,I need 1 day for PH103 due to an event.
+R14,2026-11-05,CS101,5,family,needs_faculty_review,I need five days for CS101 because of family reasons.
+R16,2026-11-06,CS101,2,workload,needs_faculty_review,Please extend my CS101 deadline by 2 days because of workload.
+R18,2026-11-07,PH103,30,family,needs_faculty_review,I need 30 days for PH103 due to family reasons.
+R20,2026-11-07,CS101,,other,needs_more_info,My CS101 assignment deadline is next Friday.

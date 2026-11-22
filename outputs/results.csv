@@ -1,0 +1,21 @@
+id,date,course,days,reason,summary,recommendation
+R01,2026-11-01,CS101,2,technical,Requests 2 days for CS101 due to a technical issue,within_policy
+R02,2026-11-01,MA102,5,family,Requests 5 days for MA102 due to a family emergency,needs_faculty_review
+R03,2026-11-02,,,other,Requests an assignment extension without further details,needs_more_info
+R04,2026-11-02,PH103,3,medical,Requests 3 days for PH103 due to medical reasons,within_policy
+R05,2026-11-02,CS101,4,workload,Requests 4 days for CS101 due to heavy workload,needs_faculty_review
+R06,2026-11-03,MA102,1,technical,Requests 1 day for MA102 due to a technical problem,within_policy
+R07,2026-11-03,CS101,,family,Requests an extension for CS101 due to a family issue,needs_more_info
+R08,2026-11-03,PH103,7,event,Requests 7 days for PH103 due to a college event,needs_faculty_review
+R09,2026-11-04,MA102,2,family,Requests 2 days for MA102 due to a family emergency,within_policy
+R10,2026-11-04,CS101,3,technical,Requests 3 days for CS101 due to a technical issue,within_policy
+R11,2026-11-04,PH103,10,medical,Requests 10 days for PH103 due to medical reasons,needs_faculty_review
+R12,2026-11-05,,2,technical,Requests 2 days extension due to a technical problem,needs_more_info
+R13,2026-11-05,PH103,1,event,Requests 1 day for PH103 due to an event,needs_faculty_review
+R14,2026-11-05,CS101,5,family,Requests 5 days for CS101 due to family reasons,needs_faculty_review
+R15,2026-11-06,MA102,3,medical,Requests 3 days for MA102 due to medical reasons,within_policy
+R16,2026-11-06,CS101,2,workload,Requests 2 days for CS101 due to workload,needs_faculty_review
+R17,2026-11-06,CS101,2,technical,Requests 2 days for CS101 due to a technical issue,within_policy
+R18,2026-11-07,PH103,30,family,Requests 30 days for PH103 due to family reasons,needs_faculty_review
+R19,2026-11-07,MA102,2,technical,Requests 2 days for MA102 due to a technical issue,within_policy
+R20,2026-11-07,CS101,,other,Requests an extension for CS101 without specifying the number of days,needs_more_info

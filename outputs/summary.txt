@@ -1,0 +1,25 @@
+EXTENSION REQUEST SORTER - SUMMARY
+========================================
+
+Total requests: 20
+
+RECOMMENDATION COUNTS
+within_policy: 8
+needs_more_info: 4
+needs_faculty_review: 8
+
+REASON COUNTS
+technical: 6
+family: 5
+other: 2
+medical: 3
+workload: 2
+event: 2
+
+COURSE COUNTS
+CS101: 8
+MA102: 5
+Unknown: 2
+PH103: 5
+
+Note: These are AI-assisted recommendations only. Faculty members make all final decisions.
